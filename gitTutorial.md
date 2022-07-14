@@ -20,3 +20,6 @@
 тестовая строка
 
 тестовый pull request
+
+тестовый pull request
+Kristina
