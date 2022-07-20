@@ -24,3 +24,15 @@
 Valeria
 
 test_fork
+
+## Homework Bykov Mihail
+
+1. на сайте делаем **fork** (ответвление) интересующего нас репозитория
+2. делаем копию своей версии репозитория - **git clone http://**
+3. переходим на нужную папку - **cd .\fail_name**
+4. создаем новую ветку и делаем ее активной - **git checkout -b branch_name**, либо **git branch branch_name** и **git checkout branch_name**
+5. вносим свои изменения в файл только в этой ветке
+6. фиксируем изменения - **git add** и **git commit -m**
+7. отправляем свою версию в GitHub - **git push --set-upstream origin branch_name**
+8. на сайте GitHub нажимаем кнопку **Compare and pull request**
+9. добавляем комментарий (при необходимости) и жмем **Create pull request**
